@@ -1,7 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
+theme: tactile
 
 title: "GitHub CI/CD DevOps demo
 description: "The quick brown fox jumps over the lazy dog"
-
-show_downloads: false
-
